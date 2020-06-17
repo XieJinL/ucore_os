@@ -1,0 +1,10 @@
+vnote_backup_file_826537664 /home/jona/git_file/ucore_os/My_urcoe/labcodes/lab1/lab1.md
+# lab1_os_report
+## 练习一
+
+1. 阅读汇编代码,了解GDT的生成, 以及如何从实模式进入保护模式
+
+   > 全局描述符表:GDT
+
+2. 
+
